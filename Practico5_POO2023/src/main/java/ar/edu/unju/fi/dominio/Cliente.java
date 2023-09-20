@@ -1,6 +1,6 @@
 package ar.edu.unju.fi.dominio;
 
-public class Cliente {
+public abstract class Cliente {
 
 	private int id;
 	private long dni;
