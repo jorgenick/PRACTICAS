@@ -7,12 +7,12 @@ public class main {
 	public static void main(String[] args) {
 		
 		ClienteManager clienteManager = new ClienteManager();
-		
+
 //		clienteManager.registrarCliente();
-		
+
 		clienteManager.cargarClientes();
-		
-	
+
+		clienteManager.registrarCompras();
 
 	}
 
