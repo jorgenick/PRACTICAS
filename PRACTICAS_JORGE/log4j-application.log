@@ -1,0 +1,39 @@
+2023-09-29 16:34:12 INFO  EjemploManager:12 - logger generado
+2023-10-03 10:28:53 INFO  EjemploManager:12 - logger generado
+2023-10-03 10:44:18 INFO  EjemploManager:14 - logger generado
+2023-10-03 10:44:18 INFO  EjemploManager:18 - fecha y hora actual2023-10-03T10:44:18.941066300
+2023-10-03 10:45:09 INFO  EjemploManager:14 - logger generado
+2023-10-03 10:45:09 INFO  EjemploManager:18 - fecha y hora actual276
+2023-10-03 10:45:30 INFO  EjemploManager:14 - logger generado
+2023-10-03 10:45:30 INFO  EjemploManager:18 - fecha y hora actual10
+2023-10-03 10:45:47 INFO  EjemploManager:14 - logger generado
+2023-10-03 10:45:47 INFO  EjemploManager:18 - fecha y hora actual : 10
+2023-10-03 10:49:42 INFO  EjemploManager:16 - logger generado
+2023-10-03 10:49:42 INFO  EjemploManager:20 - fecha y hora actual : 10
+2023-10-03 10:50:06 INFO  EjemploManager:16 - logger generado
+2023-10-03 10:50:06 INFO  EjemploManager:20 - fecha y hora actual : 10
+2023-10-03 10:50:22 INFO  EjemploManager:16 - logger generado
+2023-10-03 10:50:22 INFO  EjemploManager:20 - fecha y hora actual : 10
+2023-10-03 10:50:32 INFO  EjemploManager:16 - logger generado
+2023-10-03 10:50:32 INFO  EjemploManager:20 - fecha y hora actual : 10
+2023-10-03 10:50:42 INFO  EjemploManager:16 - logger generado
+2023-10-03 10:50:42 INFO  EjemploManager:20 - fecha y hora actual : 10
+2023-10-03 10:51:04 INFO  EjemploManager:16 - logger generado
+2023-10-03 10:51:04 INFO  EjemploManager:20 - fecha y hora actual : 10
+2023-10-03 10:51:15 INFO  EjemploManager:16 - logger generado
+2023-10-03 10:51:15 INFO  EjemploManager:20 - fecha y hora actual : 10
+2023-10-03 10:51:32 INFO  EjemploManager:16 - logger generado
+2023-10-03 10:51:32 INFO  EjemploManager:20 - fecha y hora actual : 10
+2023-10-03 10:51:46 INFO  EjemploManager:16 - logger generado
+2023-10-03 10:51:46 INFO  EjemploManager:20 - fecha y hora actual : 10
+2023-10-03 10:52:04 INFO  EjemploManager:16 - logger generado
+2023-10-03 10:52:04 INFO  EjemploManager:20 - fecha y hora actual : 10
+2023-10-03 10:52:14 INFO  EjemploManager:16 - logger generado
+2023-10-03 10:52:14 INFO  EjemploManager:20 - fecha y hora actual : 10
+2023-10-03 11:58:17 INFO  EjemploManager:16 - logger generado
+2023-10-03 11:58:17 INFO  EjemploManager:20 - fecha y hora actual : 11
+2023-10-04 14:57:52 INFO  EjemploManager:16 - logger generado
+2023-10-04 14:57:52 INFO  EjemploManager:20 - fecha y hora actual : 14
+2023-10-09 11:38:46 INFO  VisitaManager:30 - se agrego la primera visita correctamente
+2023-10-09 11:43:12 INFO  VisitaManager:30 - se agrego la primera visita correctamente
+2023-10-09 11:43:12 WARN  VisitaManager:35 - el tecnico ya se encuentra en la lista
