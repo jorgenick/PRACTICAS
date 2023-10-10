@@ -37,3 +37,9 @@
 2023-10-09 11:38:46 INFO  VisitaManager:30 - se agrego la primera visita correctamente
 2023-10-09 11:43:12 INFO  VisitaManager:30 - se agrego la primera visita correctamente
 2023-10-09 11:43:12 WARN  VisitaManager:35 - el tecnico ya se encuentra en la lista
+2023-10-09 23:06:46 INFO  VisitaManager:36 - se agrego la primera visita correctamente
+2023-10-09 23:06:46 WARN  VisitaManager:62 - el tecnico elegido esta ocupado en ese horario
+2023-10-09 23:07:17 INFO  VisitaManager:36 - se agrego la primera visita correctamente
+2023-10-09 23:07:17 WARN  VisitaManager:62 - el tecnico elegido esta ocupado en ese horario
+2023-10-09 23:07:36 INFO  VisitaManager:36 - se agrego la primera visita correctamente
+2023-10-09 23:07:36 WARN  VisitaManager:58 - visita agregada.. con tecnico ya recurrido

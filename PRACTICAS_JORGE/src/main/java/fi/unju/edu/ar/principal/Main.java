@@ -10,8 +10,15 @@ public class Main {
 		
 		visita.mostrarVisita();
 		
-		visita.agregarVisita();
-		visita.agregarVisita();
+		
+		try {
+			visita.agregarVisita();
+			visita.agregarVisita();
+			
+		} catch (Exception e){
+			
+		}
+
 		
 	}
 
